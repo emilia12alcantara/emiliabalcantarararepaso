@@ -1,0 +1,2 @@
+si no abre  se copia en la url
+ok
